@@ -7,3 +7,5 @@ def otro_saludo():
     print("Vengo desde el futuro")
 
 otro_saludo()
+
+print("Prueba de rama alterna")
